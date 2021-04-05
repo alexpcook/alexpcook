@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Cook.
 - 👀 I’m interested in infrastructure, systems engineering, and automation.
-- 🌱 I’m continually growing my skills in areas such as Linux, AWS, Go, Docker, Terraform, and computer networking.
+- 🌱 I’m continually growing my skills in areas such as Linux, AWS, Go, Python, Docker, Terraform, and computer networking.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
